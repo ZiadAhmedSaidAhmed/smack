@@ -16,6 +16,7 @@
 		8CBBC26224986CC600558406 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CBBC26124986CC600558406 /* SWRevealViewController.m */; };
 		8CBBC2672498773B00558406 /* ChatVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CBBC2662498773B00558406 /* ChatVC.swift */; };
 		8CBBC2692498775A00558406 /* ChannelVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CBBC2682498775A00558406 /* ChannelVC.swift */; };
+		8CBBC26B249922EC00558406 /* gradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CBBC26A249922EC00558406 /* gradientView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		8CBBC26124986CC600558406 /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
 		8CBBC2662498773B00558406 /* ChatVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatVC.swift; sourceTree = "<group>"; };
 		8CBBC2682498775A00558406 /* ChannelVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelVC.swift; sourceTree = "<group>"; };
+		8CBBC26A249922EC00558406 /* gradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gradientView.swift; sourceTree = "<group>"; };
 		C02B3AD83C1464EB3D039A13 /* Pods-smack.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-smack.debug.xcconfig"; path = "Pods/Target Support Files/Pods-smack/Pods-smack.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -105,6 +107,7 @@
 		8CBBC2642498771000558406 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				8CBBC26A249922EC00558406 /* gradientView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -254,6 +257,7 @@
 			files = (
 				8CBBC2672498773B00558406 /* ChatVC.swift in Sources */,
 				8CBBC24B2497C0A100558406 /* AppDelegate.swift in Sources */,
+				8CBBC26B249922EC00558406 /* gradientView.swift in Sources */,
 				8CBBC24D2497C0A100558406 /* SceneDelegate.swift in Sources */,
 				8CBBC26224986CC600558406 /* SWRevealViewController.m in Sources */,
 				8CBBC2692498775A00558406 /* ChannelVC.swift in Sources */,
